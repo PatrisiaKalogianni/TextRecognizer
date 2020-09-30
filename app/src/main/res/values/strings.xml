@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="past_month">Past Month</string>
+    <string name="item1">Item 1</string>
+    <string name="history">History</string>
+    <string name="help">Help</string>
+    <string name="past_week">Past Week</string>
+</resources>
